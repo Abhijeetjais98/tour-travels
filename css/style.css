@@ -334,6 +334,7 @@ form label:hover {
   #0de3eb, #100a2e, #eedd44);
   -webkit-text-fill-color: transparent;
   -webkit-background-clip: text;
+  background-clip: text;
 }
 
 .category .box-container .box p {
