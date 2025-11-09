@@ -140,7 +140,7 @@ i {
 
 /*-------------- NavBar updated------------- */
 .header .navbar a {
-  color: #fff;
+  color: #000000;
   font-size: 16px;
   text-transform: capitalize;
   margin: 0 10px;
@@ -151,7 +151,7 @@ i {
 
 .header .navbar a:hover {
   background-color: #ff6347;
-  color: #fff;
+  color: #000000;
   box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
   transform: scale(1.05);
 }
